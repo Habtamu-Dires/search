@@ -1,0 +1,40 @@
+h1 {
+    margin: 50px;
+    font-size: 120px;
+}
+
+.search-field {
+    border: 1px solid rgb(78, 65, 65);
+    border-radius: 35px;
+    width: 60%;
+}
+
+.text-input {
+    background-color: inherit;
+    border-style: hidden;
+}
+
+.text-input:focus {
+    outline: none;
+}
+
+.bi-search {
+    font-size: 20px;
+    background-color: inherit;
+}
+
+.bi-camera {
+    font-size: 30px;
+    background-color: inherit;
+}
+
+.search-button input {
+    margin: 20px;  
+    padding: 10px;  
+    font-size: 20px;
+}
+
+.adv-search:focus {
+    border: 2px solid blue;
+
+}
